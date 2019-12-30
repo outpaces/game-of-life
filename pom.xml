@@ -15,10 +15,10 @@
         <!-- A workaround for a bug in PMD -->
         <sourceJdk>1.8</sourceJdk>
         <targetJdk>1.8</targetJdk>
-        <github.account>wakaleo</github.account>
+        <github.account>outpaces</github.account>
         <thucydides.version>1.8.4</thucydides.version>
         <jelastic.context>gameoflife</jelastic.context>
-        <jelastic.environment>wakaleo</jelastic.environment>
+        <jelastic.environment>outpaces</jelastic.environment>
     </properties>
 
     <scm>
